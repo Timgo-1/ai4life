@@ -1,6 +1,6 @@
 ### [Live Site](https://ai4life.vercel.app/)
 
-![Modern UI/UX AI4LIFE](https://i.ibb.co/Btsy3XP/EQUEZ.png)
+![Modern UI/UX AI4LIFE](https://i.ibb.co/54y6nKf/AI4LIFE.png)
 
 ## Stay up to date with new projects
 
